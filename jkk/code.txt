@@ -1,0 +1,17 @@
+{int n,i,j;
+cout<<"enter interger of which size of natrix u wantt";
+cin>>n;
+int m[n][n];
+for(i=0;i<n;i++)
+{for(j=0;j<n;j++)
+ { a=rand();
+  if(a<=n)
+   { m[i][j]=a;
+   }
+ }
+ duplicate(m)
+}
+void_duplicate(m[n][n])
+{ unordered_u<int,int>mp;
+ for(int x=1;x<n;x++)
+mp[s 
